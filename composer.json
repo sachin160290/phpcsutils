@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sachin160290/phpcsutils"
+        }
+    ],
+    "require-dev": {
+        "phpcsutils/phpcsutils": "*"
+    }
+}
